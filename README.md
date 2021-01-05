@@ -1,2 +1,2 @@
-# DIscord
+# Discord
 Discord
